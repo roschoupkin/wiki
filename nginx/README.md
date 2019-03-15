@@ -79,7 +79,7 @@ server {
     }
 }
 ```
-> **Note:** **8084** - our port, **front** - our folder with project code
+> **Note:** `8084` - our port, `front` - our folder with project code
 
 ### 5. We need to create a link to the configuration file
 ```
