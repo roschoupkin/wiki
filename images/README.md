@@ -79,3 +79,4 @@ After using these two images with some CSS styles, you will save **21.5Mb**
 * [svgo](https://github.com/svg/svgo)
 * [svgo-gui](https://github.com/svg/svgo-gui)
 * [imageoptim](https://imageoptim.com/mac)
+* [compresspng](https://compresspng.com) – Make some magic with PNG
